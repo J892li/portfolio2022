@@ -58,7 +58,8 @@
     "uniqCompNum": 245,
     "versionPublish": "5.6.5",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "mbrsiteDomain": "971pqalnwd"
   },
   "pages": {
     "index.html": {
